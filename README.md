@@ -1,7 +1,7 @@
 package-test
 ============
 
-Demonstrate loading module using require package
+Demonstrate loading child module packages using `require('module/package)`
 
 Output from running `node index`
 
